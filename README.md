@@ -1,6 +1,6 @@
 # Space Battle
 ## Introduction
-![Alt text](./demo2.jpeg?raw=true )
+![Alt text](./demo3.jpeg?raw=true )
 
 This is a game running on UCFUNKIT4 written in C.<br>
 Please prepare two Funkits to play the game.<br><br>
