@@ -1,6 +1,6 @@
 # Space Battle
 ## Introduction
-![Alt text](./demo3.jpeg?raw=true )
+![Alt text](./main/demo3.jpeg?raw=true )
 
 This is a game running on UCFUNKIT4 written in C.<br>
 Please prepare two Funkits to play the game.<br><br>
@@ -11,10 +11,10 @@ Push down the navigation switch to start the game again.<br>
 Please try to score as much points as possible!
 
 <video width="320" height="240" controls>
-  <source src="./demo.mp4" type="video/mp4">
+  <source src="./main/demo.mp4" type="video/mp4">
 </video>
 
-![Alt text](./demo1.jpeg?raw=true )
+![Alt text](./main/demo1.jpeg?raw=true )
 
 ## Program Structure
 There are 4 source files:<br>
