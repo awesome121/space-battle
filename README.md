@@ -8,14 +8,23 @@ Push the button S1 to end the game, which in turn displays the final score of yo
 Push down the navigation switch to start the game again.<br>
 Please try to score as much points as possible!
 
+<video width="320" height="240" controls>
+  <source src="./demo.mp4" type="video/mp4">
+</video>
+
+![Alt text](./demo1.jpeg?raw=true )
 
 ## Program Structure
 There are 4 source files:<br>
-game.c  Main source file to run.<br>
-game_initialise.c  Initialise all the components required in the game.<br>
-components_update.c  Refresh components(update bullets movement, add bullets).<br>
-components_display.c  Display greeting message before game starts, Ship, bullets on LEDs and the final score when game ends.<br>
-game_status_check.c  Provides status check functions for Space Battle game.<br><br>
+* game.c  Main source file to run.<br>
+
+* game_initialise.c  Initialise all the components required in the game.<br>
+
+* components_update.c  Refresh components(update bullets movement, add bullets).<br>
+
+* components_display.c  Display greeting message before game starts, Ship, bullets on LEDs and the final score when game ends.<br>
+
+* game_status_check.c  Provides status check functions for Space Battle game.<br><br>
 and their 4 corresponding header files.<br>
 
 
