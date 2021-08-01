@@ -31,6 +31,7 @@ and their 4 corresponding header files.<br>
 
 
 ## Ohter Useful Commands
+"cd main"
 "make program" to make the program</br>
 "make clean" to clean all the .hex .o .out files
 
