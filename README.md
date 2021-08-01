@@ -37,8 +37,5 @@ and their 4 corresponding header files.<br>
 ## Acknowledgement
 Author: Cory Pelham, Changxing Gong<br>
 Date: 11/10/2020<br><br>
-ENCE260<br>
-University of Canterbury
-
 
 
