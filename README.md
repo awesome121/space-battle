@@ -1,6 +1,7 @@
 # Space Battle
 ## Introduction
 ![Alt text](./demo2.jpeg?raw=true )
+
 This is a game running on UCFUNKIT4 written in C.<br>
 Please prepare two Funkits to play the game.<br><br>
 Push down the navigation switch to start the game. When the game starts, push down the navigation switch to shoot a bullet at a time.<br>
